@@ -39,7 +39,7 @@ pip install matplotlib
 # 3.Execution
 
 3.1 Prepare the input data and place it in the appropriate directory.
-   - Excel file containing coordinates and the coorsponding parameter statistics
+   - Excel file containing coordinates and the corresponding parameter statistics
 
 3.2 Open the code: 
    -CODE-public available.ipynb
