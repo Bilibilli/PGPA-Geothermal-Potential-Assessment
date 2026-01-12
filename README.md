@@ -51,7 +51,7 @@ pip install matplotlib
    - Sobol sensitivity indices
    - Variance summary tables
 
-#4. Reproducibility
+# 4. Reproducibility
 
 All stochastic processes are controlled using fixed random seeds.
 The results reported in the manuscript can be reproduced by executing the "CODE-public available.ipynb" with the provided data and environment configuration.
