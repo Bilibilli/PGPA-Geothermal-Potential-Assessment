@@ -41,7 +41,7 @@ pip install matplotlib
 3.1 Prepare the input data and place it in the appropriate directory.
    - Excel file containing coordinates and the corresponding parameter statistics
 
-3.2 Open the code: 
+3.2 Open the code file: 
    -CODE-public available.ipynb
 
 3.3 Run all cells sequentially from top to bottom.
@@ -56,4 +56,3 @@ pip install matplotlib
 All stochastic processes are controlled using fixed random seeds.
 The results reported in the manuscript can be reproduced by executing the "CODE-public available.ipynb" with the provided data and environment configuration.
 While Some input data may not be publicly available due to data policy restrictions.
-pip install numpy pandas rasterio scipy SALib matplotlib
